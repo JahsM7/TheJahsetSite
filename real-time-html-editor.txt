@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>www.TheJahsetSite.com</title>
+<style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #dbadf7;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 15px 17px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #a937f0;
+}
+</style>
+</head>
+<body>
+
+<ul>
+  <li><a class="active" href="#Home">Home</a></li>
+  <li><a href="#Home">My Dad</a></li>
+  <li><a href="#My Mom">My Mom</a></li>
+  <li><a href="#My Siter">My Siter</a></li>
+   <li><a href="#My Grandma">My Grandma</a></li>
+    <li><a href="#My Aunt">My Aunt</a></li>
+     <li><a href="#My cousin">My cousin</a></li>
+</ul>
+
+
+</body>
+</html>
+
+<html>
+<body style="background-color: #d4fff8"> 
+ 
+<h1>The Jahset Site...</h1>
+
+ <img src="https://i.pinimg.com/736x/a9/8c/20/a98c20e0ad48c94887a203cc8761ba75.jpg" alt="Girl in a jacket" width="200" height="200">
+ 
+<p>My name is Jahset, I am 14 years old, andI was born in the Dominican Republic.I like to read, listen to music, and sleep a lot. I have meen to a somewhat good amount of places before, and these places include, Boston, Massachussets, Puerto Plata, Dominican Republic, and Miami, Florida. In my free time I mostly go on my phone to watch videos or movies. My family are my best friends, specially my dad, I talk to him about everything and enjoy spending time with him, they are all very loving and caring for me, and I am to them as well.</p>
+
+
+ 
+<table>
+  <tr>
+	<th>Family member</th>
+	<th>Name</th>
+	<th>Phone number</th>
+	<th>Location</th>
+  </tr>
+  <tr>
+	<td>Dad</td>
+	<td>Wilfrido Mercedes</td>
+	<td>321-752-4444</td>
+ 	<td>Orlando</td>
+  </tr>
+  <tr>
+	<td>Mom</td>
+	<td>Estefani Rondon</td>
+	<td>321-752-5555</td>
+ 	<td>Orlando</td>
+  </tr>
+  <tr>
+	<td>Sister</td>
+	<td>Tifany Mercedes</td>
+	<td>321-752-6666</td>
+ 	<td>Orlando</td>
+  </tr>
+  <tr>
+	<td>Cousin</td>
+	<td>Isabella Gomez</td>
+	<td>321-752-7777</td>
+ 	<td>Orlando</td>
+  </tr>
+  <tr>
+	<td>Aunt</td>
+	<td>Yenny Gomez</td>
+	<td>321-752-8888</td>
+ 	<td>Orlando</td>
+  </tr>
+  <tr>
+	<td>Grandma</td>
+	<td>Olga Saldivar</td>
+	<td>809-242-0705</td>
+ 	<td>Dominican Republic</td>
+  </tr>
+</table>
